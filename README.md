@@ -1,5 +1,5 @@
 # LMS-smoothed-BMI-centile-tables
-This repository contains LMS smoothed BMI centile tables constructed from data from 63339 children measured as part of The Central Manchester Foundation Trust's Child Health and Measurement Programme (CHAMP), analysed in partnership with The University of Manchester (https://www.champ.cmft.nhs.uk/). 
+This repository contains LMS smoothed centile tables constructed from data from 63339 children measured as part of The Central Manchester Foundation Trust's Child Health and Measurement Programme (CHAMP), analysed in partnership with The University of Manchester (https://www.champ.cmft.nhs.uk/). 
 
 Manchester University NHS Foundation Trust (MFT) has committed to producing a digital growth chart for every child. A child’s growth pattern is a fundamental indicator of health and wellbeing as well as a predictor of future health and wellbeing. Comprising a team of experts in health and nutrition, CHAMP has successfully helped thousands of families make positive lifestyle changes.
 
